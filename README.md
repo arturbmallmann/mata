@@ -8,7 +8,7 @@ nodes_links
 correlacao.ipynb
 
 
-<h2>Dependências:</h2>
+<h2>Dependências</h2>
 pandas
 numpy
 jupyter notebook
@@ -17,4 +17,5 @@ jupyter notebook
 Na pasta do arquivo correlacao.ipynb executar o seguinte comando:
 jupyter notebook
 
-<p>ambém pode-se usar o google colab para executar o notebook, mas é necessário montar a pasta <b>nodes_links<b></p>
+<p>Também pode-se usar o google colab para executar o notebook, mas é necessário fazer upload da pasta <b>nodes_links<b></p>
+https://colab.research.google.com/github/arturbmallmann/roemata/blob/master/correlacao.ipynb

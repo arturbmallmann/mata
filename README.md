@@ -1,3 +1,20 @@
-<h1>Correlação entre taxa de bloqueio e grau médio</h1>
+<h1>Correlação Entre Variáveis no Roteamento e atribuição de espectro</h1>
+<p style='font-size: 20px' >Alunos: André Luiz Maso, Artur Bernardo Mallmann, Maikon Douglas Pereira e Tatiane Barbosa</p>
+    
+<p>Neste Trabalho vamos explorar qual é a correlação entre Taxa de Bloqueio (Tb = B/D), onde B é o número de bloqueios ocorridos durante o RSA (Roteamento e atribuição de espectro) e D é o número total de demandas (soma da triangular superior da matriz de demandas), e o Índice de Wiener da topologia (Soma do comprimento dos enlaces dos caminhos mais curtos)</p>
 
-<p>Neste trabalho através de testes em diversas topologias de diferentes tamanhos pretendemos testar com diferentes graus médios se a taxa de bloqueio tem uma relação inversamente proporcional ao grau médio</p>
+<h2>Arquivos do Projeto</h2>
+nodes_links
+correlacao.ipynb
+
+
+<h2>Dependências:</h2>
+pandas
+numpy
+jupyter notebook
+
+<h2>Como usar</h2>
+Na pasta do arquivo correlacao.ipynb executar o seguinte comando:
+jupyter notebook
+
+<p>ambém pode-se usar o google colab para executar o notebook, mas é necessário montar a pasta <b>nodes_links<b></p>
